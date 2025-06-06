@@ -4,7 +4,7 @@ Uma aplicação simples e moderna para consultar informações de endereço a pa
 
 ## 💻 Demonstração
 
-![Demonstração da interface](caminho/para/screenshot.png)
+![Demonstração da interface](/img/image.png)
 
 > O usuário digita um CEP e obtém dados como logradouro, bairro, cidade e UF.
 
