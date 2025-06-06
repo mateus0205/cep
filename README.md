@@ -31,13 +31,11 @@ Não é necessário instalar dependências. É um projeto totalmente front-end.
 ```
 ## 📁 Estrutura de Arquivos
 
-```plaintext
 busca-cep/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
 
 
 ## ✅ Sobre a API
