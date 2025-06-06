@@ -36,23 +36,20 @@ busca-cep/
 ├── script.js
 └── README.md
 
+
 ## ✅ Sobre a API
+
 API pública do ViaCEP para obter os dados. Não é necessário autenticação ou chave de acesso.
 
 ## ⚠️ Aviso
+
 Alguns CEPs podem retornar sem logradouro, pois representam áreas amplas (como cidades inteiras). O sistema foi preparado para tratar esses casos com mensagens informativas.
 
 ## 🧠 Possíveis melhorias
 
-Validação de CEPs inválidos ou com menos de 8 dígitos.
-
-Exibição de mensagens de carregamento enquanto a busca é feita.
-
-Integração com mapas (Google Maps ou OpenStreetMap).
-
-Versão mobile-first com melhorias de usabilidade.
-
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+- Validação de CEPs inválidos ou com menos de 8 dígitos.  
+- Exibição de mensagens de carregamento enquanto a busca é feita.  
+- Integração com mapas (Google Maps ou OpenStreetMap).  
+- Versão mobile-first com melhorias de usabilidade.
 
 
